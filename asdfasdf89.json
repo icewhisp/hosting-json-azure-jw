@@ -9,5 +9,15 @@
     "zip": "10501",
     "lat": "41.03",
     "lng": "-73.79",
-    "favoriteHobby": "Fighting the man"
+    "favoriteHobby": "Fighting the man",
+    "inPerson":[
+	],
+	"virtual":[
+		"Monday",
+		"Wednesday",
+		"Friday"
+    ],
+    "seatNumber":"",
+    "startTime":"3pm CT",
+    "class":"cpsc-24700-001"
 }

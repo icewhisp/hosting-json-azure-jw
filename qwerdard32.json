@@ -9,5 +9,15 @@
     "zip": "60540",
     "lat": "41.789",
     "lng": "-88.20",
-    "favoriteHobby": "Dungeons and Dragons"
+    "favoriteHobby": "Dungeons and Dragons",
+    "inPerson":[
+	],
+	"virtual":[
+		"Monday",
+		"Wednesday",
+		"Friday"
+    ],
+    "seatNumber":"",
+    "startTime":"3pm CT",
+    "class":"cpsc-24700-001"
 }
